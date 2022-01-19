@@ -2,15 +2,13 @@
 
 # Installation
 ```
-pip3 install  flask
-pip3 install MySQLdb
-pip3 install Flask-SQLAlchemy
-pip3 install beautifulsoup4
+pip3 install django
 
 ```
 
 # Usage
-Type in the search field cryptocurrency you want to find
+cd desktop
+django-admin startproject todo_list
 
 # Examples
-After typing name of the cryptocurrency, click search button
+Firstly you should create superuser in the terminal, then login. Overall 3 functions available in the ToDoApp: create, update, delete. Also description, complete checkbox is placed. You can create more users and work further with the TaskList!
