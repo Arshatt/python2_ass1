@@ -7,7 +7,7 @@ pip3 install django
 ```
 
 # Usage
-cd desktop '/n'
+cd desktop 
 django-admin startproject todo_list
 
 # Examples
